@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="pattern-roadmap.md" />
+    <File Path="series-overview.md" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Shared/">
+    <Project Path="Domain/Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Singleton/" />
+  <Folder Name="/src/Singleton/After/" />
+  <Folder Name="/src/Singleton/Before/" />
+  <Folder Name="/src/Singleton/ConsoleDemo/" />
+</Solution>
