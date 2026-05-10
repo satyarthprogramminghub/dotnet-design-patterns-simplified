@@ -7,8 +7,7 @@
   <Folder Name="/src/Shared/">
     <Project Path="Domain/Domain.csproj" />
   </Folder>
-  <Folder Name="/src/Singleton/" />
-  <Folder Name="/src/Singleton/After/" />
-  <Folder Name="/src/Singleton/Before/" />
-  <Folder Name="/src/Singleton/ConsoleDemo/" />
+  <Folder Name="/src/Singleton/">
+    <Project Path="SingletonDemo/SingletonDemo.csproj" />
+  </Folder>
 </Solution>
