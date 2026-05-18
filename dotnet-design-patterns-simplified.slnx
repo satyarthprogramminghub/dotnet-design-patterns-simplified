@@ -8,6 +8,7 @@
     <Project Path="Domain/Domain.csproj" />
   </Folder>
   <Folder Name="/src/Singleton/">
+    <Project Path="DIContainerSingleton/DIContainerSingleton.csproj" Id="4859b444-bd95-4225-b784-7cd0482e99eb" />
     <Project Path="SingletonDemo/SingletonDemo.csproj" />
   </Folder>
 </Solution>
